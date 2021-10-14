@@ -40,4 +40,5 @@ int main() {
 	cout <<"A continuación se mostrará lo que se lleva el estado de ti:" <<endl;
 	estado = cot_ss + impuestos + IBI + IMP_CIR + (agua * IVA) + (luz * IVA) + (comida * IVA) + (ocio * IVA) + (gasolina * IVA) + (tabaco * IVA) + (internet * IVA);
 	cout <<"Lo que el estado se lleva de ti es: " <<estado <<endl;
+	cout <<"HOLA MUNDO" <<endl;
 }
